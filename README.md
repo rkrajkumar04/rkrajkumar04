@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I am a passionate student exploring the vast domai
 - **Tools & Libraries**:
   - Data Analysis: Numpy, Pandas
   - Data Visualization: Matplotlib, Seaborn
-  - AI Tools: ChatGPT, Claude, Antigravity, Codex 
+  - AI Tools: ChatGPT, Claude, Antigravity, Codex
+  - Machine Learning & AI:  Prompt Engineering,LLM, RAG, LangChain, LangGraph, AI Agents
 - **Technologies**:
   - Machine Learning
   - Data Analytics
